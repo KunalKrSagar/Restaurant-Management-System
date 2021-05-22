@@ -11,7 +11,7 @@ public class Connect {
 	static String url = "jdbc:mysql://localhost:3307/" +databaseName;
 	
 	static String username = "root";
-	static String password = "man1210$$$9934984456";
+	static String password = "pass";
 	
 	
 	public static Connection main(String args) throws InstantiationException, IllegalAccessException, ClassNotFoundException, SQLException {
